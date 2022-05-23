@@ -17,4 +17,4 @@ After that, the empty parking slot is detected and shown, so that it becomes eas
 
 ![parking slot detection](/Images/4.jpg)
 
-> Link to the [Research Paper]() for this project. 
+> Link to the [Research Paper](https://drive.google.com/file/d/1ojQn-U-QiUHmh8LsGqsbwuUCWMX4sh1p/view?usp=sharing) for this project. 
